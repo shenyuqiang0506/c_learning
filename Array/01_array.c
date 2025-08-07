@@ -1,11 +1,8 @@
 #include <stdio.h>
 //数组的定义
-int age[80] = {
-};
-double height[50] = {
-};
-double price[80] = {
-};
+int age[80];
+double height[50];
+double price[80];
 
 int main() {
     /*
