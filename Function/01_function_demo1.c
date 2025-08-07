@@ -18,6 +18,8 @@ int main() {
     void 函数名() {
         函数体；
             }
+函数的调用：
+函数名()；
      */
     playGame();
     return 0;
