@@ -15,4 +15,5 @@ int main() {
     //赋值
     //每次只能赋值一个
     money.moneyi = 1;
+    printf("%d", money.moneyi);
 }
