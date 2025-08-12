@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main() {
     /*
         打开文件:fopen
         写出数据:
